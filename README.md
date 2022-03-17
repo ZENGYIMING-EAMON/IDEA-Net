@@ -25,6 +25,10 @@ If you find our code or paper useful, please consider citing:
 
 ## Video demo
 
+This is the compressed demo and you can check the full size clear demo at this link of GoogleDrive (will provide asap):
+
+![](https://github.com/ZENGYIMING-EAMON/IDEA-Net/blob/main/demo_small_size.gif)
+
 ## Acknowledgements
 
 <!-- For further questions, please contact 'ym.zeng@my.cityu.edu.hk' -->
