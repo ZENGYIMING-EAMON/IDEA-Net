@@ -25,7 +25,7 @@ If you find our code or paper useful, please consider citing:
 
 ## Video demo
 
-This is the compressed demo and you can check the full size clear demo at this link of GoogleDrive (will provide asap):
+This is the compressed demo (due to github's 25MB limited size) and you can check the full size clear demo at this link of GoogleDrive (will provide asap):
 
 ![](https://github.com/ZENGYIMING-EAMON/IDEA-Net/blob/main/demo_small_size.gif)
 
