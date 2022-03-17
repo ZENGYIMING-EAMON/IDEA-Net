@@ -27,4 +27,4 @@ If you find our code or paper useful, please consider citing:
 
 ## Acknowledgements
 
-For further questions, please contact 'ym.zeng@my.cityu.edu.hk'
+<!-- For further questions, please contact 'ym.zeng@my.cityu.edu.hk' -->
