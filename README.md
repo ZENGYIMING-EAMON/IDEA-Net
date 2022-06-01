@@ -17,7 +17,8 @@ The code will be made public shortly after the conference.
 
 Click on the cover below to see the video:
 
-[![video](https://user-images.githubusercontent.com/81420796/171410771-83627aca-ebe6-4061-9995-e1b73c8bd7e6.jpg)](https://www.bilibili.com/video/BV1E94y1m73i?share_source=copy_web "video")
+[<img width="50%" height="50%" src="https://user-images.githubusercontent.com/81420796/171410771-83627aca-ebe6-4061-9995-e1b73c8bd7e6.jpg"/>](https://www.bilibili.com/video/BV1E94y1m73i?share_source=copy_web "video")
+<!-- [![video](https://user-images.githubusercontent.com/81420796/171410771-83627aca-ebe6-4061-9995-e1b73c8bd7e6.jpg)](https://www.bilibili.com/video/BV1E94y1m73i?share_source=copy_web "video") -->
 
 ## Setup
 
