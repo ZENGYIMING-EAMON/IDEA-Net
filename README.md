@@ -1,5 +1,8 @@
 # IDEA-Net
 
+<!-- ![IDEA_Net_Poster_LaTex](https://user-images.githubusercontent.com/81420796/171416270-8f30d6c5-1444-4449-84ab-2dde1dc71ffb.jpg) -->
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/81420796/171416270-8f30d6c5-1444-4449-84ab-2dde1dc71ffb.jpg"/>
+
 This repository contains the official implementation of the paper [*IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment*](https://arxiv.org/abs/2203.11590).
 
 If you find our code or paper useful, please consider citing:
