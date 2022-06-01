@@ -1,6 +1,6 @@
 # IDEA-Net
 
-This repository contains the official implementation of the paper *IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment*.
+This repository contains the official implementation of the paper [*IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment*](https://arxiv.org/abs/2203.11590).
 
 If you find our code or paper useful, please consider citing:
 ```
