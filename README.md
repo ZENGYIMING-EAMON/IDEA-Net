@@ -19,6 +19,14 @@ The code will be made public shortly after the conference.
 
 You can download our processed DHB-dataset at [this google drive link](https://drive.google.com/drive/folders/1Oaras1mV6DOICMPkCggPZvnBAtc4SKgH?usp=sharing).
 
+## TO-DO
+
+- [x] DHB
+- [ ] DHB_inf
+- [ ] DFAUST
+- [ ] DFAUST_inf
+- [ ] train
+
 ## Running
 
 #### Demo - Quick Start
