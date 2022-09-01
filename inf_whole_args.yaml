@@ -1,0 +1,28 @@
+VideoRmOutlier: false
+batch_size: 1
+dataset: MITintplTrain
+enc_glb_dim: 1024
+eval: true
+exp_name: IntpV15_2_new_inf
+groupNorm: true
+interframes: 3
+loss: 1*dEMD
+metric: 1*EMD+1*CD
+model: IntpFeat
+model_path: snapshot_Interpolation_IntpV15_2_new_models_best.pkl
+no_cuda: false
+num_points: 1024
+render_ratio: 1
+runOneSeqSaveOpt: 
+  saveGT: 1
+  saveO: 1
+  saveXYZ: 1
+  saveXlsx: 1
+select_seq:
+- swing
+- longdress
+task: interpolation_sequence
+timeVarPick: true #false when training
+vis_choice:
+  BallVideo: true
+workers: 4
