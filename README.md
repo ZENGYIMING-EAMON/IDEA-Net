@@ -30,6 +30,3 @@ This is the compressed demo (due to github's 25MB limited size) and you can chec
 
 ![](https://github.com/ZENGYIMING-EAMON/IDEA-Net/blob/main/demo_small_size.gif)
 
-## Acknowledgements
-
-<!-- For further questions, please contact 'ym.zeng@my.cityu.edu.hk' -->
